@@ -1,0 +1,47 @@
+body {
+	background-color: #c1f0f0;
+}
+
+h1 {
+	text-align: center;
+	/*font-family: Chalkboard, ‘Comic Sans’, sans-serif;*/
+	font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono;
+	margin-bottom: 25px;
+	font-size: 55px;
+}
+
+#products img {
+	width: 380px;
+	float: left;
+	padding-left: 30px;
+	padding-right: 25px;
+	padding-top: 20px;
+}
+
+#winepic {
+	margin-top: 110px;
+	margin-bottom: 20px;
+}
+
+#products div {
+	width: 440px;
+	height: 540px;
+	border: 4px solid #00a3cc;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+#counter {
+	text-align: center;
+	font-size: 15px;
+	font-family: Verdana;
+}
+
+#products p {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
